@@ -1,5 +1,4 @@
-
-![image](https://github.com/user-attachments/assets/6ba71261-06c4-469e-86fc-b02ef12569af)
+![Dashboard Overview](https://github.com/user-attachments/assets/6ba71261-06c4-469e-86fc-b02ef12569af)
 
 # dsa_capstone_project_amazon
 Exploratory Data Analysis(EDA) and dashboard for Amazon product review
