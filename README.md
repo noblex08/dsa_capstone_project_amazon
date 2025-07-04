@@ -5,7 +5,7 @@ Exploratory Data Analysis(EDA) and dashboard for Amazon product review
 
 # 📦 Amazon Product Review Analysis
 
-This project is part of the **DSA Data Analysis Capstone**. It involves an in-depth exploratory data analysis of Amazon product reviews and pricing data. The goal is to uncover actionable insights that can help guide product strategy, marketing efforts, and customer engagement.
+This project is part of the **DSA Data Analysis Capstone Project**. It involves an in-depth exploratory data analysis of Amazon product reviews and pricing data. The goal is to uncover actionable insights that can help guide product strategy, marketing efforts, and customer engagement.
 
 ---
 
