@@ -57,7 +57,7 @@ This project is part of the **DSA Data Analysis Capstone**. It involves an in-de
 
 - Microsoft Excel
   - PivotTables
-  - Formulas (`IFERROR`, `AVERAGE`, `SUM`, etc.)
+  - Formulas ('AVERAGE`, `SUM`, etc.)
   - Charts (Bar, Pie, Scatter)
 - Visual Design (Dashboard & KPIs)
 - GitHub for portfolio documentation
@@ -71,3 +71,6 @@ This project reinforced skills in:
 - Exploratory analysis
 - Insight communication
 - Dashboard design
+
+🙌 Author
+**Aina Oluremi Idowu** — Data Analyst in Training
